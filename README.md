@@ -16,4 +16,4 @@ This repository contains the deliverables for Project 1 of the DecodeLabs Indust
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <your-repository-url>
+   git clone (https://github.com/Amoghrajkrishnatrey/DecodeLabs-Internship/tree/Week-1-Project)
